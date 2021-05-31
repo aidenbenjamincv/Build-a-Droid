@@ -16,7 +16,7 @@ public class Droid {
   }
 
   public static void main (String[] args){
-    Droid codey =new Droid("Codey");
+    Droid codey =new Droid("Aiden");
     System.out.println(codey);
     codey.performTask("Eating Ice Cream");
     codey.performTask("Playing Videogames");
